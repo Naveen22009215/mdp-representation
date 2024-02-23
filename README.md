@@ -35,6 +35,7 @@ Right= 1,Left= 0
 
 
 ## PYTHON REPRESENTATION:
+```
 mdp = {
     "Final": {
          0 : [(0.7, "Semi's", 0, False),(0.3, "Final", 1, True)],
@@ -49,7 +50,7 @@ mdp = {
         1 : [(0.7, "Semi's`", 0, False),(0.3, "Knocked out", 0.0, False)]
     }
 }
-
+```
 
 ## OUTPUT:
 ![image](https://github.com/Naveen22009215/mdp-representation/assets/119401470/4d6cc091-559e-4cbd-8210-f217ed484f85)
