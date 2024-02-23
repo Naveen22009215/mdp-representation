@@ -18,11 +18,11 @@ Semi's.
 
 ### Action Space
 
-Right 
+Right ,Left
 
 ### Sample Action
 
-Right(1) and Left(0).
+Right(1)
 
 ### Reward Function
 
