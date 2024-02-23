@@ -18,7 +18,7 @@ Semi's.
 
 ### Action Space
 
-Write your answer here
+Right , Left
 
 ### Sample Action
 
