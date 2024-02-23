@@ -7,7 +7,7 @@ The aim of this MDP is to model the decision-making process of a person while co
 
 ### Problem Description
 
-#### In this scenario ,The team wants to win the football tournament,they has two choice,one is move right and reach the final win the cupand another one is move left ,get knocked from tournament.
+#### In this scenario ,The team wants to win the football tournament,they has two choice,one is move right and reach the final win the cup and another one is move left ,get knocked from tournament.
 
 ### State Space
 
@@ -18,7 +18,7 @@ Semi's.
 
 ### Action Space
 
-Right , Left
+Right 
 
 ### Sample Action
 
